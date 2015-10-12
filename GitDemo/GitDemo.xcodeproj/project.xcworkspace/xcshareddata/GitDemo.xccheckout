@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B714B95E-1780-4A2D-85F8-6CEDEBA62088</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>GitDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>3DE2C106280D7B2C2123C4B46B8D1CDA48BA8464</key>
 		<string>https://github.com/XingYunLong/GitDemo1509.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GitDemo/GitDemo.xcodeproj/project.xcworkspace</string>
+	<string>GitDemo/GitDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3DE2C106280D7B2C2123C4B46B8D1CDA48BA8464</key>
